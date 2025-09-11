@@ -1,0 +1,53 @@
+$ python src/main.py
+
+📌 Question: What was Microsoft's total revenue in 2023?
+✅ Answer: Microsoft reported $211.9 billion in total revenue in 2023.
+
+📖 Sources:
+ - MSFT 2023 10-K (excerpt: "Total revenue was $211.9 billion...")
+
+💡 Reasoning: Retrieved total revenue directly from Microsoft’s 2023 10-K.
+
+
+📌 Question: How did NVIDIA’s data center revenue grow from 2022 to 2023?
+✅ Answer: NVIDIA’s data center revenue increased from $10.6B in 2022 to $15.0B in 2023 (+41%).
+
+📖 Sources:
+ - NVDA 2022 10-K (excerpt: "Data center revenue was $10.6 billion...")
+ - NVDA 2023 10-K (excerpt: "Data center revenue increased to $15.0 billion...")
+
+💡 Reasoning: Retrieved revenue from both years and calculated YoY growth.
+
+
+📌 Question: Which company had the highest operating margin in 2023?
+✅ Answer: Microsoft had the highest operating margin at 42.1%, followed by Google at 29.8% and NVIDIA at 29.6%.
+
+📖 Sources:
+ - MSFT 2023 10-K (excerpt: "Operating margin was 42.1%...")
+ - GOOGL 2023 10-K (excerpt: "Operating margin of 29.8%...")
+ - NVDA 2023 10-K (excerpt: "We achieved operating margin of 29.6%...")
+
+💡 Reasoning: Retrieved margins for all three companies and compared values.
+
+
+📌 Question: What percentage of Google’s revenue came from cloud in 2023?
+✅ Answer: Cloud services contributed 11% of Google’s total revenue in 2023.
+
+📖 Sources:
+ - GOOGL 2023 10-K (excerpt: "Google Cloud revenue represented 11% of total revenue...")
+
+💡 Reasoning: Retrieved percentage directly from Google’s filing.
+
+
+📌 Question: Compare AI investments mentioned by all three companies in their 2024 10-Ks
+✅ Answer: 
+- Google emphasized AI-first strategy and investments in Gemini.  
+- Microsoft highlighted integration of OpenAI models across Azure and Office.  
+- NVIDIA focused on GPU/AI infrastructure expansion.  
+
+📖 Sources:
+ - GOOGL 2024 10-K (excerpt: "Our Gemini models represent continued AI investments...")
+ - MSFT 2024 10-K (excerpt: "We expanded our partnership with OpenAI...")
+ - NVDA 2024 10-K (excerpt: "We continue to invest in accelerated AI infrastructure...")
+
+💡 Reasoning: Retrieved AI-related disclosures from all three 2024 filings and compared.

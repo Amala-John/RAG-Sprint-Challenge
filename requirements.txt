@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+pdfplumber
+sentence-transformers
+faiss-cpu
+numpy
+tqdm
+scikit-learn
+python-dotenv
+openai
+rich
