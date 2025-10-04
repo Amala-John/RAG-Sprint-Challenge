@@ -1,0 +1,45 @@
+{
+  "query": "What percentage of Google's 2023 revenue came from advertising?",
+  "answer": "Google Search & other revenues increased $12.6 billion from 2022 to 2023. YouTube ads 29,243 31,510 Google Network 32,780 31,312 Google advertising 224,473 237,855 Google subscriptions, platforms, and devices 29,055 34,688 Google Services total 253,528 272,543 Google Cloud 26,280 33,088 Other Bets 1,068 1,527 Hedging gains (losses) 1,960 236",
+  "reasoning": "Retrieved relevant context and generated direct answer.",
+  "sub_queries": [
+    "what percentage of google's 2023 revenue came from advertising?"
+  ],
+  "sources": [
+    {
+      "company": "Google",
+      "year": "2024",
+      "excerpt": "\u2022 As of December 31, 2023, we had 182,502 employees. Financial Results Revenues The following table presents revenues by type (in millions): Year Ended December 31, 2022 2023 Google Search & other $ 1...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "Google",
+      "year": "2023",
+      "excerpt": "58 Table of Contents Alphabet Inc. Note 2. Revenues Disaggregated Revenues The following table presents revenues disaggregated by type (in millions): Year Ended December 31, 2020 2021 2022 Google Sear...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "Google",
+      "year": "2023",
+      "excerpt": "31 Table of Contents Alphabet Inc. Financial Results Revenues The following table presents revenues by type (in millions): Year Ended December 31, 2021 2022 Google Search & other $ 148,951 $ 162,450 Y...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "Google",
+      "year": "2024",
+      "excerpt": "62. Table of Contents Alphabet Inc. Note 2. Revenues Disaggregated Revenues The following table presents revenues disaggregated by type (in millions): Year Ended December 31, 2021 2022 2023 Google Sea...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "Google",
+      "year": "2023",
+      "excerpt": "The increase in cost-per-impression from 2021 to 2022 was driven by a number of interrelated factors including ongoing product and policy changes, improvements we have made in ad formats and delivery,...",
+      "section": null,
+      "page": null
+    }
+  ]
+}

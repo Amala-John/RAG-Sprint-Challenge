@@ -1,0 +1,46 @@
+{
+  "query": "How much did Microsoft's cloud revenue grow from 2022 to 2023?",
+  "answer": "Microsoft Cloud (formerly commercial cloud) revenue increased 32% to $91.2 billion. Office Commercial products and cloud services revenue increased 13% driven by Office 365 Commercial growth of 18%. Revenue increased $13.6 billion or 7% in fiscal year 2023.",
+  "reasoning": "Used agent decomposition with 2 sub-queries and hf LLM for synthesis.",
+  "sub_queries": [
+    "how much did microsoft's cloud revenue grow from  to ? 2022",
+    "how much did microsoft's cloud revenue grow from  to ? 2023"
+  ],
+  "sources": [
+    {
+      "company": "Microsoft",
+      "year": "2022",
+      "excerpt": "We generate revenue by offering a wide range of cloud-based and other services to people and businesses; licensing and supporting an array of software products; designing, manufacturing, and selling d...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "Microsoft",
+      "year": "2023",
+      "excerpt": "Fiscal Year 2023 Compared with Fiscal Year 2022 Revenue increased $13.6 billion or 7% driven by growth in Intelligent Cloud and Productivity and Business Processes, offset in part by a decline in More...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "Microsoft",
+      "year": "2024",
+      "excerpt": "We generate revenue by offering a wide range of cloud-based solutions, content, and other services to people and businesses; licensing and supporting an array of software products; delivering relevant...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "Microsoft",
+      "year": "2023",
+      "excerpt": "Our most significant expenses are related to compensating employees; supporting and investing in our cloud-based services, including datacenter operations; designing, manufacturing, marketing, and sel...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "Microsoft",
+      "year": "2022",
+      "excerpt": "Refer to the Non-GAAP Financial Measures section below for a reconciliation of our financial results reported in accordance with GAAP to non-GAAP financial results. See Note 12 \u2013 Income Taxes of the N...",
+      "section": null,
+      "page": null
+    }
+  ]
+}

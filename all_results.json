@@ -1,0 +1,654 @@
+[
+  {
+    "query": "What was Microsoft's total revenue in 2023?",
+    "answer": "Microsoft's total revenue in 2023: Windows, Xbox, Surface, Search and news advertising. Revenue growth from Surface devices and accessories, Xbox content and services, search and news ad revenue, and cloud services.",
+    "reasoning": "Retrieved relevant context and generated direct answer.",
+    "sub_queries": [
+      "what was microsoft's total revenue in 2023?"
+    ],
+    "sources": [
+      {
+        "company": "Microsoft",
+        "year": "2022",
+        "excerpt": "Windows OEM revenue growth Revenue from sales of Windows Pro and non-Pro licenses sold through the OEM channel Windows Commercial products and cloud services revenue growth Revenue from Windows Commer...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2023",
+        "excerpt": "For a discussion of the year ended June 30 , 2022 compared to the year ended June 30, 2021, please refer to Part II, Item 7, \u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2023",
+        "excerpt": "Windows OEM revenue growth Revenue from sales of Windows Pro and non-Pro licenses sold through the OEM channel Windows Commercial products and cloud services revenue growth Revenue from Windows Commer...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2024",
+        "excerpt": "Windows OEM revenue growth Revenue from sales of Windows Pro and non-Pro licenses sold through the OEM channel Windows Commercial products and cloud services revenue growth Revenue from Windows Commer...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2022",
+        "excerpt": "Refer to the Non-GAAP Financial Measures section below for a reconciliation of our financial results reported in accordance with GAAP to non-GAAP financial results. See Note 12 \u2013 Income Taxes of the N...",
+        "section": null,
+        "page": null
+      }
+    ]
+  },
+  {
+    "query": "What was NVIDIA's total revenue in fiscal year 2024?",
+    "answer": "No customer represented 10% or more of total revenue for fiscal years 2023 and 2022. Data Center $ 47,525 $ 15,005 $ 10,613 Gaming 10,447 9,067 12,462 Automotive 1,091 903 566 OEM and Other 306 455 1,162 Total revenue $ 60,922 $ 26,974 $26,914 79 Table of Contents NVIDIA Corporation and Subsidiaries Notes to the Consolidated Financial Statements.",
+    "reasoning": "Retrieved relevant context and generated direct answer.",
+    "sub_queries": [
+      "what was nvidia's total revenue in fiscal year 2024?"
+    ],
+    "sources": [
+      {
+        "company": "NVIDIA",
+        "year": "2024",
+        "excerpt": "No customer represented 10% or more of total revenue for fiscal years 2023 and 2022. The following table summarizes information pertaining to our revenue by each of the specialized markets we serve: Y...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "NVIDIA",
+        "year": "2022",
+        "excerpt": "60 Table of Contents NVIDIA CORPORATION AND SUBSIDIARIES NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued) Our Consolidated Statements of Income include stock-based compensation expense, net ...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "NVIDIA",
+        "year": "2022",
+        "excerpt": "Revenue for fiscal year 2022 was $26.91 billion, up 61% from a year ago. Gaming revenue was up 61% from a year ago reflecting higher sales of GeForce GPUs. We continue to benefit from strong demand fo...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "NVIDIA",
+        "year": "2022",
+        "excerpt": "One customer represented 16 % of our accounts receivable balance as of January 31, 2021. The following table summarizes information pertaining to our revenue by each of the specialized markets we serv...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "NVIDIA",
+        "year": "2022",
+        "excerpt": "Refer to Note 6 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. Results of Operations A discussion regarding ou...",
+        "section": null,
+        "page": null
+      }
+    ]
+  },
+  {
+    "query": "How did NVIDIA's data center revenue grow from 2022 to 2023?",
+    "answer": " Revenue for fiscal year 2024 was $60.9 billion, up 126% from a year ago. Strong demand was driven by enterprise software and consumer internet applications. Customers across industry verticals access NVIDIA AI infrastructure both through the cloud and on-premises.",
+    "reasoning": "Used agent decomposition with 2 sub-queries and hf LLM for synthesis.",
+    "sub_queries": [
+      "how did nvidia's data center revenue grow from  to ? 2022",
+      "how did nvidia's data center revenue grow from  to ? 2023"
+    ],
+    "sources": [
+      {
+        "company": "NVIDIA",
+        "year": "2024",
+        "excerpt": "These platforms incorporate processors, interconnects, software, algorithms, systems, and services to deliver unique value. Our platforms address four large markets where our expertise is critical: Da...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "NVIDIA",
+        "year": "2024",
+        "excerpt": "No customer represented 10% or more of total revenue for fiscal years 2023 and 2022. The following table summarizes information pertaining to our revenue by each of the specialized markets we serve: Y...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "NVIDIA",
+        "year": "2023",
+        "excerpt": "Revenue for fiscal year 2023 revenue was $26.97 billion, flat compared with a year ago. 37 Table of Contents Data Center revenue was up 41% from a year ago led by strong growth from hyperscale custome...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "NVIDIA",
+        "year": "2022",
+        "excerpt": "Data Center revenue was up 58% from a year ago primarily driven by sales of NVIDIA Ampere architecture GPUs across both training and inference for cloud computing and AI workloads such as natural lang...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "NVIDIA",
+        "year": "2022",
+        "excerpt": "Revenue for fiscal year 2022 was $26.91 billion, up 61% from a year ago. Gaming revenue was up 61% from a year ago reflecting higher sales of GeForce GPUs. We continue to benefit from strong demand fo...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "NVIDIA",
+        "year": "2024",
+        "excerpt": "NVIDIA has leveraged its GPU architecture to create platforms for accelerated computing, AI solutions, scientific computing, data science, AV, robotics, metaverse and 3D internet applications. Our two...",
+        "section": null,
+        "page": null
+      }
+    ]
+  },
+  {
+    "query": "How much did Microsoft's cloud revenue grow from 2022 to 2023?",
+    "answer": "Microsoft Cloud (formerly commercial cloud) revenue increased 32% to $91.2 billion. Office Commercial products and cloud services revenue increased 13% driven by Office 365 Commercial growth of 18%. Revenue increased $13.6 billion or 7% in fiscal year 2023.",
+    "reasoning": "Used agent decomposition with 2 sub-queries and hf LLM for synthesis.",
+    "sub_queries": [
+      "how much did microsoft's cloud revenue grow from  to ? 2022",
+      "how much did microsoft's cloud revenue grow from  to ? 2023"
+    ],
+    "sources": [
+      {
+        "company": "Microsoft",
+        "year": "2022",
+        "excerpt": "We generate revenue by offering a wide range of cloud-based and other services to people and businesses; licensing and supporting an array of software products; designing, manufacturing, and selling d...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2023",
+        "excerpt": "Fiscal Year 2023 Compared with Fiscal Year 2022 Revenue increased $13.6 billion or 7% driven by growth in Intelligent Cloud and Productivity and Business Processes, offset in part by a decline in More...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2024",
+        "excerpt": "We generate revenue by offering a wide range of cloud-based solutions, content, and other services to people and businesses; licensing and supporting an array of software products; delivering relevant...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2023",
+        "excerpt": "Our most significant expenses are related to compensating employees; supporting and investing in our cloud-based services, including datacenter operations; designing, manufacturing, marketing, and sel...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2022",
+        "excerpt": "Refer to the Non-GAAP Financial Measures section below for a reconciliation of our financial results reported in accordance with GAAP to non-GAAP financial results. See Note 12 \u2013 Income Taxes of the N...",
+        "section": null,
+        "page": null
+      }
+    ]
+  },
+  {
+    "query": "Which company had the highest operating margin in 2023?",
+    "answer": "Gross margin increased $10.4 billion or 8% driven by growth in Intelligent Cloud and Productivity and Business Processes. Excluding the impact of the change in accounting estimate, gross margin percentage decreased 1 point.",
+    "reasoning": "Used agent decomposition with 3 sub-queries and hf LLM for synthesis.",
+    "sub_queries": [
+      "microsoft operating margin",
+      "google operating margin",
+      "nvidia operating margin"
+    ],
+    "sources": [
+      {
+        "company": "Microsoft",
+        "year": "2023",
+        "excerpt": "Gross margin increased $10.4 billion or 8% driven by growth in Intelligent Cloud and Productivity and Business Processes and the change in accounting estimate, offset in part by a decline in More Pers...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Google",
+        "year": "2023",
+        "excerpt": "In addition, we may also experience downward pressure on our operating margin resulting from a variety of factors, such as the continued expansion of our business into new fields, including products a...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Google",
+        "year": "2024",
+        "excerpt": "In addition, we may experience downward pressure on our operating margin resulting from a variety of factors, such as an increase in the mix of lower-margin products and services, in particular from t...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2022",
+        "excerpt": "Cost of revenue increased $10.4 billion or 20% driven by growth in Microsoft Cloud. Gross margin increased $19.8 billion or 17% driven by growth across each of our segments. \u2022 Gross margin percentage ...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2024",
+        "excerpt": "\u2022 Microsoft Cloud gross margin percentage decreased slightly to 71%. Excluding the impact of the change in accounting estimate, Microsoft Cloud gross margin percentage increased slightly driven by imp...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "NVIDIA",
+        "year": "2023",
+        "excerpt": "Sales of inventory that was previously written-off totaled $137 million and $111 million for fiscal years 2023 and 2022, respectively. As a result, the overall net effect on our gross margin was an un...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Google",
+        "year": "2024",
+        "excerpt": "Revenues from cloud, consumer subscriptions, platforms, and devices, which may have differing characteristics than our advertising revenues, have grown over time, and we expect this trend to continue ...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "NVIDIA",
+        "year": "2022",
+        "excerpt": "As a result, the overall net effect on our gross margin was an unfavorable impact of 0.9% in fiscal year 2022 and insignificant in fiscal year 2021. The gross margin of our Graphics segment increased ...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "NVIDIA",
+        "year": "2022",
+        "excerpt": "These statements are based upon information available to us as of the filing date of this Annual Report on Form 10-K , and while we believe such information forms a reasonable basis for such statement...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "NVIDIA",
+        "year": "2023",
+        "excerpt": "Fueled by the sustained demand for exceptional 3D graphics and the scale of the gaming market, NVIDIA has leveraged its GPU architecture to create platforms for scientific computing, AI, data science,...",
+        "section": null,
+        "page": null
+      }
+    ]
+  },
+  {
+    "query": "Which of the three companies had the highest gross margin in 2023?",
+    "answer": "Cost of revenue increased $10.4 billion or 20% driven by growth in Microsoft Cloud. Gross margin percentage decreased slightly. Microsoft Cloud gross margin percentage increased 2 points to 72%. The three companies had the highest gross margin in 2023.",
+    "reasoning": "Used agent decomposition with 3 sub-queries and hf LLM for synthesis.",
+    "sub_queries": [
+      "microsoft gross margin",
+      "google gross margin",
+      "nvidia gross margin"
+    ],
+    "sources": [
+      {
+        "company": "Microsoft",
+        "year": "2023",
+        "excerpt": "Gross margin increased $10.4 billion or 8% driven by growth in Intelligent Cloud and Productivity and Business Processes and the change in accounting estimate, offset in part by a decline in More Pers...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2022",
+        "excerpt": "Cost of revenue increased $10.4 billion or 20% driven by growth in Microsoft Cloud. Gross margin increased $19.8 billion or 17% driven by growth across each of our segments. \u2022 Gross margin percentage ...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2023",
+        "excerpt": "\u2022 Microsoft Cloud gross margin percentage increased 2 points to 72%. Excluding the impact of the change in accounting estimate, Microsoft Cloud gross margin percentage decreased slightly driven by a d...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2023",
+        "excerpt": "Gross margin percentage decreased driven by a decline in Devices. \u2022 Operating expenses decreased $195 million or 2% driven by a decline in Devices, offset in part by investments in Search and news adv...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2024",
+        "excerpt": "\u2022 Microsoft Cloud gross margin percentage decreased slightly to 71%. Excluding the impact of the change in accounting estimate, Microsoft Cloud gross margin percentage increased slightly driven by imp...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "NVIDIA",
+        "year": "2023",
+        "excerpt": "Sales of inventory that was previously written-off totaled $137 million and $111 million for fiscal years 2023 and 2022, respectively. As a result, the overall net effect on our gross margin was an un...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "NVIDIA",
+        "year": "2022",
+        "excerpt": "As a result, the overall net effect on our gross margin was an unfavorable impact of 0.9% in fiscal year 2022 and insignificant in fiscal year 2021. The gross margin of our Graphics segment increased ...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Google",
+        "year": "2023",
+        "excerpt": "In addition, we may also experience downward pressure on our operating margin resulting from a variety of factors, such as the continued expansion of our business into new fields, including products a...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "NVIDIA",
+        "year": "2022",
+        "excerpt": "These statements are based upon information available to us as of the filing date of this Annual Report on Form 10-K , and while we believe such information forms a reasonable basis for such statement...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "NVIDIA",
+        "year": "2023",
+        "excerpt": "As of January 29, 2023, $ 652 million of revenue related to 76 Table of Contents NVIDIA CORPORATION AND SUBSIDIARIES NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued) performance obligations ...",
+        "section": null,
+        "page": null
+      }
+    ]
+  },
+  {
+    "query": "What percentage of Google's revenue came from cloud in 2023?",
+    "answer": "Revenues were $307.4 billion, an increase of 9% year over year, primarily driven by an increase in Google Services revenues. Google Search & other revenues increased $12.6 billion from 2022 to 2023.",
+    "reasoning": "Retrieved relevant context and generated direct answer.",
+    "sub_queries": [
+      "what percentage of google's revenue came from cloud in 2023?"
+    ],
+    "sources": [
+      {
+        "company": "Google",
+        "year": "2024",
+        "excerpt": "\u2022 As of December 31, 2023, we had 182,502 employees. Financial Results Revenues The following table presents revenues by type (in millions): Year Ended December 31, 2022 2023 Google Search & other $ 1...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Google",
+        "year": "2024",
+        "excerpt": "\u2022 Revenues were $307.4 billion, an increase of 9% year over year, primarily driven by an increase in Google Services revenues of $19.0 billion, or 8%, and an increase in Google Cloud revenues of $6.8 ...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2023",
+        "excerpt": "44 PART II Item 7 SEGMENT RESULTS OF OPERATIONS (In millions, except percentages) 2023 2022 Percentage Change Revenue Productivity and Business Processes $ 69,274 $ 63,364 9% Intelligent Cloud 87,907 ...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Google",
+        "year": "2024",
+        "excerpt": "The growth in subscriptions was largely for YouTube services, primarily due to an increase in paid subscribers. The growth in device revenues was primarily driven by increased sales of Pixel devices. ...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2024",
+        "excerpt": "43 PART II Item 7 SEGMENT RESULTS OF OPERATIONS (In millions, except percentages) 2024 2023 Percentage Change Revenue Productivity and Business Processes $ 77,728 $ 69,274 12% Intelligent Cloud 105,36...",
+        "section": null,
+        "page": null
+      }
+    ]
+  },
+  {
+    "query": "What percentage of Google's 2023 revenue came from advertising?",
+    "answer": "Google Search & other revenues increased $12.6 billion from 2022 to 2023. YouTube ads 29,243 31,510 Google Network 32,780 31,312 Google advertising 224,473 237,855 Google subscriptions, platforms, and devices 29,055 34,688 Google Services total 253,528 272,543 Google Cloud 26,280 33,088 Other Bets 1,068 1,527 Hedging gains (losses) 1,960 236",
+    "reasoning": "Retrieved relevant context and generated direct answer.",
+    "sub_queries": [
+      "what percentage of google's 2023 revenue came from advertising?"
+    ],
+    "sources": [
+      {
+        "company": "Google",
+        "year": "2024",
+        "excerpt": "\u2022 As of December 31, 2023, we had 182,502 employees. Financial Results Revenues The following table presents revenues by type (in millions): Year Ended December 31, 2022 2023 Google Search & other $ 1...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Google",
+        "year": "2023",
+        "excerpt": "58 Table of Contents Alphabet Inc. Note 2. Revenues Disaggregated Revenues The following table presents revenues disaggregated by type (in millions): Year Ended December 31, 2020 2021 2022 Google Sear...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Google",
+        "year": "2023",
+        "excerpt": "31 Table of Contents Alphabet Inc. Financial Results Revenues The following table presents revenues by type (in millions): Year Ended December 31, 2021 2022 Google Search & other $ 148,951 $ 162,450 Y...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Google",
+        "year": "2024",
+        "excerpt": "62. Table of Contents Alphabet Inc. Note 2. Revenues Disaggregated Revenues The following table presents revenues disaggregated by type (in millions): Year Ended December 31, 2021 2022 2023 Google Sea...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Google",
+        "year": "2023",
+        "excerpt": "The increase in cost-per-impression from 2021 to 2022 was driven by a number of interrelated factors including ongoing product and policy changes, improvements we have made in ad formats and delivery,...",
+        "section": null,
+        "page": null
+      }
+    ]
+  },
+  {
+    "query": "Compare AI investments mentioned by all three companies in their 2024 10-Ks",
+    "answer": "All three companies mentioned AI investments in their 2024 10-Ks. Microsoft, Google, and Facebook are expected to invest in AI in the next few years. All three companies have said AI presents risks and challenges that could affect its adoption.",
+    "reasoning": "Used agent decomposition with 3 sub-queries and hf LLM for synthesis.",
+    "sub_queries": [
+      "microsoft ai investment",
+      "google ai investment",
+      "nvidia ai investment"
+    ],
+    "sources": [
+      {
+        "company": "Microsoft",
+        "year": "2023",
+        "excerpt": "As with many innovations, AI presents risks and challenges that could affect its adoption, and therefore our business. AI algorithms or training methodologies may be flawed. Datasets may be overbroad,...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2024",
+        "excerpt": "For a discussion of the year ended June 30, 2023 compared to the year ended June 30, 2022, please refer to Part II, Item 7, \u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of ...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2024",
+        "excerpt": "PART I ITEM 1. B USINESS GENERAL Embracing Our Future Microsoft is a technology company committed to making digital technology and artificial intelligence (\u201cAI\u201d) available broadly and doing so respons...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2023",
+        "excerpt": "We strive to create local opportunity, growth, and impact in every country around the world. We are creating the platforms and tools , powered by artificial intelligence (\u201c AI \u201d), that deliver better,...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Google",
+        "year": "2024",
+        "excerpt": "We are expanding our investment in AI across the entire company. This includes generative AI and continuing to integrate AI capabilities into our products and services. AI technology and services are ...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Google",
+        "year": "2024",
+        "excerpt": "We have invested and expect to continue to invest in new businesses, products, services, and technologies in a wide range of industries beyond online advertising. The investments that we are making ac...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Google",
+        "year": "2024",
+        "excerpt": "These services provide access to solutions such as cybersecurity, databases, analytics, and AI offerings including our AI infrastructure, Vertex AI platform, and Duet AI for Google Cloud; \u2022 Google Wor...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Google",
+        "year": "2024",
+        "excerpt": "That is why we are focused on making it easy and scalable for others to innovate, and grow, with AI. That means providing the most advanced computing infrastructure and expanding access to Google\u2019s la...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Google",
+        "year": "2023",
+        "excerpt": "AI already powers Google\u2019s core products that help billions of people every day and has been at the foundation of our core ads quality systems for years, helping large and small businesses all over th...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "NVIDIA",
+        "year": "2023",
+        "excerpt": "If we fail any of these key success criteria, our financial results may be harmed. We will offer enterprise customers NVIDIA AI cloud services directly and through our network of partners. Examples of...",
+        "section": null,
+        "page": null
+      }
+    ]
+  },
+  {
+    "query": "Compare the R&D spending as a percentage of revenue across all three companies in 2023",
+    "answer": "Windows OEM revenue growth Revenue from sales of Windows Pro and non-Pro licenses sold through the OEM channel Windows Commercial products and cloud services revenue growth. Search and news advertising revenue (ex TAC) growth.",
+    "reasoning": "Used agent decomposition with 3 sub-queries and hf LLM for synthesis.",
+    "sub_queries": [
+      "microsoft revenue",
+      "google revenue",
+      "nvidia revenue"
+    ],
+    "sources": [
+      {
+        "company": "Microsoft",
+        "year": "2024",
+        "excerpt": "Windows OEM revenue growth Revenue from sales of Windows Pro and non-Pro licenses sold through the OEM channel Windows Commercial products and cloud services revenue growth Revenue from Windows Commer...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2022",
+        "excerpt": "Windows OEM revenue growth Revenue from sales of Windows Pro and non-Pro licenses sold through the OEM channel Windows Commercial products and cloud services revenue growth Revenue from Windows Commer...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2023",
+        "excerpt": "Windows OEM revenue growth Revenue from sales of Windows Pro and non-Pro licenses sold through the OEM channel Windows Commercial products and cloud services revenue growth Revenue from Windows Commer...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2024",
+        "excerpt": "We generate revenue by offering a wide range of cloud-based solutions, content, and other services to people and businesses; licensing and supporting an array of software products; delivering relevant...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2024",
+        "excerpt": "Our Microsoft Cloud revenue, which includes Azure and other cloud services, Office 365 Commercial, the commercial portion of LinkedIn, Dynamics 365, and other commercial cloud properties, was $ 137.4 ...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Google",
+        "year": "2024",
+        "excerpt": "\u2022 As of December 31, 2023, we had 182,502 employees. Financial Results Revenues The following table presents revenues by type (in millions): Year Ended December 31, 2022 2023 Google Search & other $ 1...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Google",
+        "year": "2023",
+        "excerpt": "58 Table of Contents Alphabet Inc. Note 2. Revenues Disaggregated Revenues The following table presents revenues disaggregated by type (in millions): Year Ended December 31, 2020 2021 2022 Google Sear...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Google",
+        "year": "2024",
+        "excerpt": "62. Table of Contents Alphabet Inc. Note 2. Revenues Disaggregated Revenues The following table presents revenues disaggregated by type (in millions): Year Ended December 31, 2021 2022 2023 Google Sea...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Google",
+        "year": "2023",
+        "excerpt": "\u2022 Revenues were $282.8 billion, an increase of 10% year over year, primarily driven by an increase in Google Services revenues of $16.0 billion, or 7%, and an increase in Google Cloud revenues of $7.1...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Google",
+        "year": "2023",
+        "excerpt": "31 Table of Contents Alphabet Inc. Financial Results Revenues The following table presents revenues by type (in millions): Year Ended December 31, 2021 2022 Google Search & other $ 148,951 $ 162,450 Y...",
+        "section": null,
+        "page": null
+      }
+    ]
+  },
+  {
+    "query": "What are the main AI risks mentioned by each company and how do they differ?",
+    "answer": "These risks may arise from current copyright infringement and other claims related to AI training and output. Some AI scenarios present ethical issues or may have broad impacts on society. If we enable or offer AI solutions that have unintended consequences, unintended usage or customization by our customers and partners, are contrary to our responsible AI policies.",
+    "reasoning": "Used hf LLM to synthesize narrative answer from retrieved context.",
+    "sub_queries": [
+      "what are the main ai risks mentioned by each company and how do they differ?"
+    ],
+    "sources": [
+      {
+        "company": "Microsoft",
+        "year": "2024",
+        "excerpt": "These risks may arise from current copyright infringement and other claims related to AI training and output, new and proposed legislation and regulations, such as the European Union\u2019s (\u201cEU\u201d) AI Act a...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2024",
+        "excerpt": "Some AI scenarios present ethical issues or may have broad impacts on society. If we enable or offer AI solutions that have unintended consequences, unintended usage or customization by our customers ...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "NVIDIA",
+        "year": "2024",
+        "excerpt": "Risks Related to Regulatory, Legal, Our Stock and Other Matters \u2022 We are subject to complex laws, rules and regulations, and political and other actions, which may adversely impact our business. \u2022 Inc...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "Microsoft",
+        "year": "2023",
+        "excerpt": "Some AI scenarios present ethical issues or may have broad impacts on society. If we enable or offer AI solutions that have unintended consequences, unintended usage or customization by our customers ...",
+        "section": null,
+        "page": null
+      },
+      {
+        "company": "NVIDIA",
+        "year": "2023",
+        "excerpt": "Compliance with government regulation in the area of AI ethics may also increase the cost of related research and development, and changes in AI-related regulation could disproportionately impact and ...",
+        "section": null,
+        "page": null
+      }
+    ]
+  }
+]

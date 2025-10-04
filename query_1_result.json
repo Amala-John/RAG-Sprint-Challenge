@@ -1,0 +1,45 @@
+{
+  "query": "What was Microsoft's total revenue in 2023?",
+  "answer": "Microsoft's total revenue in 2023: Windows, Xbox, Surface, Search and news advertising. Revenue growth from Surface devices and accessories, Xbox content and services, search and news ad revenue, and cloud services.",
+  "reasoning": "Retrieved relevant context and generated direct answer.",
+  "sub_queries": [
+    "what was microsoft's total revenue in 2023?"
+  ],
+  "sources": [
+    {
+      "company": "Microsoft",
+      "year": "2022",
+      "excerpt": "Windows OEM revenue growth Revenue from sales of Windows Pro and non-Pro licenses sold through the OEM channel Windows Commercial products and cloud services revenue growth Revenue from Windows Commer...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "Microsoft",
+      "year": "2023",
+      "excerpt": "For a discussion of the year ended June 30 , 2022 compared to the year ended June 30, 2021, please refer to Part II, Item 7, \u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "Microsoft",
+      "year": "2023",
+      "excerpt": "Windows OEM revenue growth Revenue from sales of Windows Pro and non-Pro licenses sold through the OEM channel Windows Commercial products and cloud services revenue growth Revenue from Windows Commer...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "Microsoft",
+      "year": "2024",
+      "excerpt": "Windows OEM revenue growth Revenue from sales of Windows Pro and non-Pro licenses sold through the OEM channel Windows Commercial products and cloud services revenue growth Revenue from Windows Commer...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "Microsoft",
+      "year": "2022",
+      "excerpt": "Refer to the Non-GAAP Financial Measures section below for a reconciliation of our financial results reported in accordance with GAAP to non-GAAP financial results. See Note 12 \u2013 Income Taxes of the N...",
+      "section": null,
+      "page": null
+    }
+  ]
+}

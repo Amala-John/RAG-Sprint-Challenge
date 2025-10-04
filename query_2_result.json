@@ -1,0 +1,45 @@
+{
+  "query": "What was NVIDIA's total revenue in fiscal year 2024?",
+  "answer": "No customer represented 10% or more of total revenue for fiscal years 2023 and 2022. Data Center $ 47,525 $ 15,005 $ 10,613 Gaming 10,447 9,067 12,462 Automotive 1,091 903 566 OEM and Other 306 455 1,162 Total revenue $ 60,922 $ 26,974 $26,914 79 Table of Contents NVIDIA Corporation and Subsidiaries Notes to the Consolidated Financial Statements.",
+  "reasoning": "Retrieved relevant context and generated direct answer.",
+  "sub_queries": [
+    "what was nvidia's total revenue in fiscal year 2024?"
+  ],
+  "sources": [
+    {
+      "company": "NVIDIA",
+      "year": "2024",
+      "excerpt": "No customer represented 10% or more of total revenue for fiscal years 2023 and 2022. The following table summarizes information pertaining to our revenue by each of the specialized markets we serve: Y...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "NVIDIA",
+      "year": "2022",
+      "excerpt": "60 Table of Contents NVIDIA CORPORATION AND SUBSIDIARIES NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued) Our Consolidated Statements of Income include stock-based compensation expense, net ...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "NVIDIA",
+      "year": "2022",
+      "excerpt": "Revenue for fiscal year 2022 was $26.91 billion, up 61% from a year ago. Gaming revenue was up 61% from a year ago reflecting higher sales of GeForce GPUs. We continue to benefit from strong demand fo...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "NVIDIA",
+      "year": "2022",
+      "excerpt": "One customer represented 16 % of our accounts receivable balance as of January 31, 2021. The following table summarizes information pertaining to our revenue by each of the specialized markets we serv...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "NVIDIA",
+      "year": "2022",
+      "excerpt": "Refer to Note 6 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. Results of Operations A discussion regarding ou...",
+      "section": null,
+      "page": null
+    }
+  ]
+}

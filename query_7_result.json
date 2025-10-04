@@ -1,0 +1,45 @@
+{
+  "query": "What percentage of Google's revenue came from cloud in 2023?",
+  "answer": "Revenues were $307.4 billion, an increase of 9% year over year, primarily driven by an increase in Google Services revenues. Google Search & other revenues increased $12.6 billion from 2022 to 2023.",
+  "reasoning": "Retrieved relevant context and generated direct answer.",
+  "sub_queries": [
+    "what percentage of google's revenue came from cloud in 2023?"
+  ],
+  "sources": [
+    {
+      "company": "Google",
+      "year": "2024",
+      "excerpt": "\u2022 As of December 31, 2023, we had 182,502 employees. Financial Results Revenues The following table presents revenues by type (in millions): Year Ended December 31, 2022 2023 Google Search & other $ 1...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "Google",
+      "year": "2024",
+      "excerpt": "\u2022 Revenues were $307.4 billion, an increase of 9% year over year, primarily driven by an increase in Google Services revenues of $19.0 billion, or 8%, and an increase in Google Cloud revenues of $6.8 ...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "Microsoft",
+      "year": "2023",
+      "excerpt": "44 PART II Item 7 SEGMENT RESULTS OF OPERATIONS (In millions, except percentages) 2023 2022 Percentage Change Revenue Productivity and Business Processes $ 69,274 $ 63,364 9% Intelligent Cloud 87,907 ...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "Google",
+      "year": "2024",
+      "excerpt": "The growth in subscriptions was largely for YouTube services, primarily due to an increase in paid subscribers. The growth in device revenues was primarily driven by increased sales of Pixel devices. ...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "Microsoft",
+      "year": "2024",
+      "excerpt": "43 PART II Item 7 SEGMENT RESULTS OF OPERATIONS (In millions, except percentages) 2024 2023 Percentage Change Revenue Productivity and Business Processes $ 77,728 $ 69,274 12% Intelligent Cloud 105,36...",
+      "section": null,
+      "page": null
+    }
+  ]
+}

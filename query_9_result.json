@@ -1,0 +1,82 @@
+{
+  "query": "Compare AI investments mentioned by all three companies in their 2024 10-Ks",
+  "answer": "All three companies mentioned AI investments in their 2024 10-Ks. Microsoft, Google, and Facebook are expected to invest in AI in the next few years. All three companies have said AI presents risks and challenges that could affect its adoption.",
+  "reasoning": "Used agent decomposition with 3 sub-queries and hf LLM for synthesis.",
+  "sub_queries": [
+    "microsoft ai investment",
+    "google ai investment",
+    "nvidia ai investment"
+  ],
+  "sources": [
+    {
+      "company": "Microsoft",
+      "year": "2023",
+      "excerpt": "As with many innovations, AI presents risks and challenges that could affect its adoption, and therefore our business. AI algorithms or training methodologies may be flawed. Datasets may be overbroad,...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "Microsoft",
+      "year": "2024",
+      "excerpt": "For a discussion of the year ended June 30, 2023 compared to the year ended June 30, 2022, please refer to Part II, Item 7, \u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of ...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "Microsoft",
+      "year": "2024",
+      "excerpt": "PART I ITEM 1. B USINESS GENERAL Embracing Our Future Microsoft is a technology company committed to making digital technology and artificial intelligence (\u201cAI\u201d) available broadly and doing so respons...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "Microsoft",
+      "year": "2023",
+      "excerpt": "We strive to create local opportunity, growth, and impact in every country around the world. We are creating the platforms and tools , powered by artificial intelligence (\u201c AI \u201d), that deliver better,...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "Google",
+      "year": "2024",
+      "excerpt": "We are expanding our investment in AI across the entire company. This includes generative AI and continuing to integrate AI capabilities into our products and services. AI technology and services are ...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "Google",
+      "year": "2024",
+      "excerpt": "We have invested and expect to continue to invest in new businesses, products, services, and technologies in a wide range of industries beyond online advertising. The investments that we are making ac...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "Google",
+      "year": "2024",
+      "excerpt": "These services provide access to solutions such as cybersecurity, databases, analytics, and AI offerings including our AI infrastructure, Vertex AI platform, and Duet AI for Google Cloud; \u2022 Google Wor...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "Google",
+      "year": "2024",
+      "excerpt": "That is why we are focused on making it easy and scalable for others to innovate, and grow, with AI. That means providing the most advanced computing infrastructure and expanding access to Google\u2019s la...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "Google",
+      "year": "2023",
+      "excerpt": "AI already powers Google\u2019s core products that help billions of people every day and has been at the foundation of our core ads quality systems for years, helping large and small businesses all over th...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "NVIDIA",
+      "year": "2023",
+      "excerpt": "If we fail any of these key success criteria, our financial results may be harmed. We will offer enterprise customers NVIDIA AI cloud services directly and through our network of partners. Examples of...",
+      "section": null,
+      "page": null
+    }
+  ]
+}

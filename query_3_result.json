@@ -1,0 +1,53 @@
+{
+  "query": "How did NVIDIA's data center revenue grow from 2022 to 2023?",
+  "answer": " Revenue for fiscal year 2024 was $60.9 billion, up 126% from a year ago. Strong demand was driven by enterprise software and consumer internet applications. Customers across industry verticals access NVIDIA AI infrastructure both through the cloud and on-premises.",
+  "reasoning": "Used agent decomposition with 2 sub-queries and hf LLM for synthesis.",
+  "sub_queries": [
+    "how did nvidia's data center revenue grow from  to ? 2022",
+    "how did nvidia's data center revenue grow from  to ? 2023"
+  ],
+  "sources": [
+    {
+      "company": "NVIDIA",
+      "year": "2024",
+      "excerpt": "These platforms incorporate processors, interconnects, software, algorithms, systems, and services to deliver unique value. Our platforms address four large markets where our expertise is critical: Da...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "NVIDIA",
+      "year": "2024",
+      "excerpt": "No customer represented 10% or more of total revenue for fiscal years 2023 and 2022. The following table summarizes information pertaining to our revenue by each of the specialized markets we serve: Y...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "NVIDIA",
+      "year": "2023",
+      "excerpt": "Revenue for fiscal year 2023 revenue was $26.97 billion, flat compared with a year ago. 37 Table of Contents Data Center revenue was up 41% from a year ago led by strong growth from hyperscale custome...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "NVIDIA",
+      "year": "2022",
+      "excerpt": "Data Center revenue was up 58% from a year ago primarily driven by sales of NVIDIA Ampere architecture GPUs across both training and inference for cloud computing and AI workloads such as natural lang...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "NVIDIA",
+      "year": "2022",
+      "excerpt": "Revenue for fiscal year 2022 was $26.91 billion, up 61% from a year ago. Gaming revenue was up 61% from a year ago reflecting higher sales of GeForce GPUs. We continue to benefit from strong demand fo...",
+      "section": null,
+      "page": null
+    },
+    {
+      "company": "NVIDIA",
+      "year": "2024",
+      "excerpt": "NVIDIA has leveraged its GPU architecture to create platforms for accelerated computing, AI solutions, scientific computing, data science, AV, robotics, metaverse and 3D internet applications. Our two...",
+      "section": null,
+      "page": null
+    }
+  ]
+}
