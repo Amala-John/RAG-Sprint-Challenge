@@ -45,7 +45,7 @@ python src/main.py
 - **Embeddings**: Sentence Transformers (`all-MiniLM-L6-v2`)
 - **Vector Store**: FAISS in-memory index for fast retrieval
 
-### ✅ **Agent Capabilities**
+###  **Agent Capabilities**
 - **Query Decomposition**: Breaks complex queries into sub-queries
 - **Multi-step Retrieval**: Handles comparative and cross-company analysis
 - **Synthesis**: LLM-powered answer generation with reasoning
@@ -116,7 +116,7 @@ User Query → Agent Decomposition → Multi-step Retrieval → LLM Synthesis �
 - **`agent.py`**: Query decomposition and multi-step reasoning
 - **`main.py`**: Main system orchestration and LLM integration
 
-## 🔧 Configuration
+##  Configuration
 
 ### LLM Options
 ```python
@@ -160,7 +160,7 @@ rag-financial-qa/
 - ✅ **Clean Code**: Modular architecture with clear separation
 - ✅ **Documentation**: README + design document
 
-## 🚦 Usage Examples
+##  Usage Examples
 
 ```python
 # After running python src/main.py, the system processes these queries:
@@ -174,7 +174,7 @@ test_queries = [
 ]
 ```
 
-## 🔍 How It Works
+##  How It Works
 
 1. **Query Analysis**: Agent analyzes the query pattern
 2. **Decomposition**: Complex queries broken into sub-queries  
