@@ -1,10 +1,10 @@
 # Financial Q&A System with RAG + Agent Capabilities
 
-🏦 **AI Engineering Assignment: RAG Sprint Challenge**
+ **AI Engineering Assignment: RAG Sprint Challenge**
 
 This project implements a focused **Retrieval-Augmented Generation (RAG)** system with **agent capabilities** to answer financial questions about **Google (GOOGL)**, **Microsoft (MSFT)**, and **NVIDIA (NVDA)** using their **10-K filings (2022–2024)**.
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Setup Environment
 ```bash
@@ -216,7 +216,3 @@ retrieved = vs.search(emb, k=3)  # Reduce from k=5 to k=3
 - **Query Speed**: 2-5 seconds per query
 - **Memory Usage**: ~50-100MB for embeddings + index
 - **Accuracy**: Depends on document relevance and LLM quality
-
----
-
-**Built for the RAG Sprint Challenge** | Demonstrates RAG fundamentals with agent capabilities for financial Q&A
