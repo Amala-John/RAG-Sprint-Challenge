@@ -31,15 +31,15 @@ python src/downloader.py
 python src/main.py
 ```
 
-## 📋 Features
+##  Features
 
-### ✅ **Data Acquisition**
+###  **Data Acquisition**
 - Automatic SEC EDGAR 10-K filing downloader
 - Companies: Google (CIK: 1652044), Microsoft (789019), NVIDIA (1045810)
 - Years: 2022, 2023, 2024 (9 total documents)
 - Respectful rate limiting for SEC servers
 
-### ✅ **RAG Pipeline**
+###  **RAG Pipeline**
 - **Text Extraction**: HTML parsing with BeautifulSoup
 - **Smart Chunking**: Sentence/paragraph-aware chunking (200-1000 tokens)
 - **Embeddings**: Sentence Transformers (`all-MiniLM-L6-v2`)
@@ -50,7 +50,7 @@ python src/main.py
 - **Multi-step Retrieval**: Handles comparative and cross-company analysis
 - **Synthesis**: LLM-powered answer generation with reasoning
 
-### ✅ **Supported Query Types**
+###  **Supported Query Types**
 
 1. **Basic Metrics**
    ```
@@ -77,7 +77,7 @@ python src/main.py
    "Compare AI investments mentioned by all three companies in their 2024 10-Ks"
    ```
 
-## 📊 Sample Output
+##  Sample Output
 
 ```json
 {
@@ -100,7 +100,7 @@ python src/main.py
 }
 ```
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 User Query → Agent Decomposition → Multi-step Retrieval → LLM Synthesis → JSON Response
@@ -132,7 +132,7 @@ chunk_size = 800      # Target chunk size (200-1000 token range)
 overlap = 100         # Overlap between chunks for context
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 rag-financial-qa/
@@ -150,7 +150,7 @@ rag-financial-qa/
 └── README.md            # This file
 ```
 
-## 🎯 Assignment Requirements Met
+##  Assignment Requirements Met
 
 - ✅ **Data Acquisition**: Automated SEC EDGAR downloader
 - ✅ **RAG Pipeline**: Complete text processing and retrieval
@@ -182,7 +182,7 @@ test_queries = [
 4. **Synthesis**: LLM combines context into coherent answer
 5. **Response**: Structured output with sources and reasoning
 
-## 💡 Technical Highlights
+##  Technical Highlights
 
 - **Smart Chunking**: Preserves paragraph/sentence boundaries
 - **Multi-hop Retrieval**: Handles comparative questions across companies/years
@@ -190,7 +190,7 @@ test_queries = [
 - **Graceful Degradation**: Works with partial data, indicates missing info
 - **Extensible Design**: Easy to add new LLMs or improve components
 
-## 🛠️ Troubleshooting
+##  Troubleshooting
 
 ### No data files found
 ```bash
@@ -210,7 +210,7 @@ llm_mode = "hf"
 retrieved = vs.search(emb, k=3)  # Reduce from k=5 to k=3
 ```
 
-## 📈 Performance
+##  Performance
 
 - **Setup Time**: ~2-3 minutes (download + indexing)
 - **Query Speed**: 2-5 seconds per query
